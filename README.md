@@ -1,9 +1,9 @@
 👋 Hi, I’m Cedric Vogt (@CedricVo91)
 
 🚀 About Me:
-🧠 Deeply passionate about quantitative research & development, aspiring to specialize in low-latency systems & backend development in FinTech.
-📈 Proficient in data science, machine learning, and business analytics with a focus on finance and cryptocurrency, especially DeFi.
-🛠️ Skilled in Python & SQL. Check out my "uniswap-address-clustering" project for insights into large financial datasets, on-chain data analysis, and unsupervised machine learning in finance.
+🧠 Deeply passionate about quantitative research & development, aspiring to specialize in low-latency systems & backend development in FinTech.<br>
+📈 Proficient in data science, machine learning, and business analytics with a focus on finance and cryptocurrency, especially DeFi.<br>
+🛠️ Skilled in Python & SQL. Check out my "uniswap-address-clustering" project for insights into large financial datasets, on-chain data analysis, and unsupervised machine learning in finance.<br>
 
 🌱 Current Learning Journey:
 * Enhancing my mathematical understanding in machine learning and delving into algorithms, data structures, and computational problem-solving.
