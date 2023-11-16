@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @CedricVo91
-- 👀 I’m interested in quantitative research & development (low-latency systems & backend development in FinTech), (quantitative) problem-solving, data science & machine learning for finance, algorithms & data structures, and FinTech (distributed ledger technologies, cryptocurrency, payment systems, DeFi).
-- I can offer skills in data science & machine learning with application to finance and cryptocurrency projects (mainly DeFi) and on-chain data analysis (i.e., ETF of data stored on distributed blockchains, mainly on Ethereum). I have particular experience in applying unsupervised machine learning methods to large financial data sets (see my project "uniswap-address-clustering-project").
-- 🌱 I’m currently learning mathematical foundations of machine learning, algorithms & data structures, computational problem solving, and advanced Python (including advanced web scrapping, OOP, and web application frameworks).
-- I plan to study computer science principles in C as a precursor to learning C++ and different programming paradigms and deepening my understanding of memory management, pointers, and low-level system operations in said language.
-- I want to join a high-growth FinTech company as a Python developer, contributing to open-source projects, hackathons, and freelance opportunities. 
-- 💞️ I’m looking to collaborate on (on-chain) data analysis, algorithm design, and Machine Learning for Finance/FinTech. 
-- 📫 How to reach me: just send me a message on cedricvogt91@gmail.com :)
+👋 Hi, I’m Cedric Vo (@CedricVo91)
 
-<!---
-CedricVo91/CedricVo91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me:
+
+🧠 Deeply passionate about quantitative research & development, aspiring to specialize in low-latency systems & backend development in FinTech.
+📈 Proficient in data science, machine learning, and business analytics with a focus on finance and cryptocurrency, especially DeFi.
+🛠️ Skilled in Python & SQL. Check out my "uniswap-address-clustering" project for insights into large financial datasets, on-chain data analysis, and unsupervised machine learning in finance.
+
+🌱 Current Learning Journey:
+
+* Enhancing my mathematical understanding in machine learning and delving into algorithms, data structures, and computational problem-solving.
+* Advancing in Python through advanced web scraping, advanced OOP, and web application frameworks.
+* Studying computer science fundamentals in C via Harvard's CS50, setting the stage for mastering C++ and deepening my knowledge of system operations and memory management.
+
+🎯 Career Goals:
+
+* Keen to join a dynamic FinTech company as a Python developer, ready to make a significant impact as a full-time employee.
+* Seeking active involvement in open-source projects, hackathons, and freelance opportunities aligned with my expertise in FinTech and quantitative development.
+
+💼 Collaboration Opportunities:
+
+* Open to collaborating on projects involving (on-chain) data analysis, algorithm design, and machine learning in finance/FinTech. If you have projects that align with my skills, I’m all ears!
+
+📫 Get in Touch:
+
+* I’m always open for a chat about FinTech, potential collaborations, or exciting opportunities.
+* Email: cedricvogt91@gmail.com
